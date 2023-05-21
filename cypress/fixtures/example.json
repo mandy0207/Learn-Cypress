@@ -1,0 +1,21 @@
+{
+
+  "name": "Candy",
+  "gender": "Female",
+  "products":["Blackberry", "Nokia", "Samsung"],
+
+
+ 
+
+  "crm_username":"mscoding24",
+  "crm_password":"AutomationDemo24",
+  "Title" :"Mr",
+  "FirstName":"Client",
+  "JobTitle": "Manager",
+  "Organisation":"Tim Hortons",
+  "Tags":"car",
+  "ProjectName":"Car Lost Case",
+  "Description": "Regarding car theft"
+
+
+}

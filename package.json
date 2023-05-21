@@ -1,0 +1,19 @@
+{
+  "name": "learn-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0",
+    "cypress-drag-drop": "^1.1.1"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress-iframe": "^1.0.1"
+  }
+}
